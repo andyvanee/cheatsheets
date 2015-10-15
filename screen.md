@@ -6,22 +6,20 @@
 
 ## Creating and Managing Screens
 
-Create a named session
+```bash
+# Create a named session
+screen -S mysession
 
-    screen -S mysession
+# Attach to running session
+screen -r mysession
 
-Attach to running session
+# List running session
+screen -ls
 
-    screen -r mysession
-
-List running session
-
-    screen -ls
-
-Start a detached session with command
-
-    screen -mdS <name>    <command>
-    screen -mdS mysession sudo tail -f /var/log/auth.log
+# Start a detached session with command
+screen -mdS <name>    <command>
+screen -mdS mysession sudo tail -f /var/log/auth.log
+```
 
 ## Within a session
 
