@@ -1,5 +1,8 @@
 # Gmail Cheatsheet
 
+- [Search](#search)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+
 ## Search
 
 Search all mail NOT in inbox

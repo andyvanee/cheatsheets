@@ -1,5 +1,9 @@
 # Screen Cheatsheet
 
+- [Creating and Managing Screens](#creating-and-managing-screens)
+- [Within a session](#within-a-session)
+- [Window Management](#window-management)
+
 ## Creating and Managing Screens
 
 Create a named session
